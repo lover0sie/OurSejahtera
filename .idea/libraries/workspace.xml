@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="761f6f88-d4f1-41dc-8553-22c64050f4a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qkw8Xz0s6Mhsycr9bDST5eW8z2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="memory.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Apps\oursejahtera\android\app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Apps\oursejahtera\assets" />
+      <recent name="D:\Apps\oursejahtera\fonts" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="761f6f88-d4f1-41dc-8553-22c64050f4a2" name="Default Changelist" comment="" />
+      <created>1617636736901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617636736901</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="275" key="#Notifications" timestamp="1617722374373">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="585" y="275" key="#Notifications/0.0.1462.864@0.0.1462.864" timestamp="1617722374373" />
+    <state x="392" y="131" key="#bar_gallery.dart" timestamp="1617640244170">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="392" y="131" key="#bar_gallery.dart/0.0.1462.864@0.0.1462.864" timestamp="1617640244170" />
+    <state x="33" y="124" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617723263082">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="33" y="124" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1462.864@0.0.1462.864" timestamp="1617723263082" />
+    <state x="431" y="203" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1617639926971">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="431" y="203" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1462.864@0.0.1462.864" timestamp="1617639926971" />
+    <state x="392" y="131" key="#main.dart" timestamp="1617640028417">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="392" y="131" key="#main.dart/0.0.1462.864@0.0.1462.864" timestamp="1617640028417" />
+    <state x="392" y="131" key="#main2.dart" timestamp="1617639933102">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="392" y="131" key="#main2.dart/0.0.1462.864@0.0.1462.864" timestamp="1617639933102" />
+    <state x="93" y="93" width="1276" height="678" key="AVDManager" timestamp="1618629884697">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="93" y="93" width="1276" height="678" key="AVDManager/0.0.1462.864@0.0.1462.864" timestamp="1618629884697" />
+    <state x="359" y="187" key="FileChooserDialogImpl" timestamp="1618631165614">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="359" y="187" key="FileChooserDialogImpl/0.0.1462.864@0.0.1462.864" timestamp="1618631165614" />
+    <state width="1417" height="208" key="GridCell.Tab.0.bottom" timestamp="1618631187327">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state width="1417" height="208" key="GridCell.Tab.0.bottom/0.0.1462.864@0.0.1462.864" timestamp="1618631187327" />
+    <state width="1417" height="208" key="GridCell.Tab.0.center" timestamp="1618631187326">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state width="1417" height="208" key="GridCell.Tab.0.center/0.0.1462.864@0.0.1462.864" timestamp="1618631187326" />
+    <state width="1417" height="208" key="GridCell.Tab.0.left" timestamp="1618631187325">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state width="1417" height="208" key="GridCell.Tab.0.left/0.0.1462.864@0.0.1462.864" timestamp="1618631187325" />
+    <state width="1417" height="208" key="GridCell.Tab.0.right" timestamp="1618631187326">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state width="1417" height="208" key="GridCell.Tab.0.right/0.0.1462.864@0.0.1462.864" timestamp="1618631187326" />
+    <state x="232" y="0" key="SettingsEditor" timestamp="1617949253035">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="232" y="0" key="SettingsEditor/0.0.1462.864@0.0.1462.864" timestamp="1617949253035" />
+  </component>
+</project>
