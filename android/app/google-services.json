@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "550569455724",
+    "project_id": "emakerthon",
+    "storage_bucket": "emakerthon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550569455724:android:f25c0bb42a1856d773e849",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550569455724-qsoe5rekjolvg44mgqhkkjj5nsnc9dlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTK-JiyfraPi7GjkXU6bejnFEC8x8xKas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550569455724-qsoe5rekjolvg44mgqhkkjj5nsnc9dlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550569455724-meg180em95ncq25bsbrpkcnr764guqsv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.oursejahtera"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550569455724:android:d258742bc4b6d81e73e849",
+        "android_client_info": {
+          "package_name": "com.example.oursejahtera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550569455724-qsoe5rekjolvg44mgqhkkjj5nsnc9dlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTK-JiyfraPi7GjkXU6bejnFEC8x8xKas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550569455724-qsoe5rekjolvg44mgqhkkjj5nsnc9dlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550569455724-meg180em95ncq25bsbrpkcnr764guqsv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.oursejahtera"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
